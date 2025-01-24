@@ -1,8 +1,17 @@
 body {
     text-align: center;
     font-family: sans-serif;
+    background-color: rgb(238, 200, 152);
 }
 
 p {
     font-size: 15px;
 }
+
+ header {
+    background-color: red;
+    display: inline-block;
+    border-radius: 250px;
+    padding: 50px;
+    margin-top: -70px;
+ }
